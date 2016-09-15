@@ -9,6 +9,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-	<p>Saying hello from <%= out.println(request.getRemoteAddr())%></p>
+	<p>Saying hello from the depths of docker! Now: <%=new java.util.Date()%> .</p>
     </body>
 </html>
