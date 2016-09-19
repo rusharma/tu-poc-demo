@@ -10,6 +10,6 @@
     <body>
         <h1>Hello World!</h1>
 	<p>Saying hello from the depths of docker!! Now: <%=new java.util.Date()%> .</p>
-	<marquee>Scroll-ingg text </marquee>
+	<marquee>This is an example of a scrolling text </marquee>
     </body>
 </html>
