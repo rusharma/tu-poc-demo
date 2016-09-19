@@ -10,6 +10,6 @@
     <body>
         <h1>Hello World!</h1>
 	<p>Saying hello from the depths of docker!! Now: <%=new java.util.Date()%> .</p>
-	<marquee>This is an example of a scrolling text </marquee>
+	<marquee>Little bo-peep has lost her sheep and doesn't know where to find them!!!! </marquee>
     </body>
 </html>
