@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Transurban Service Agreement<title>
+        <title>Transurban Service Agreement</title>
     </head>
     <body>
         <h1>Sample Application.</h1>
