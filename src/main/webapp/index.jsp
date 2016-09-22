@@ -8,7 +8,7 @@
         <title>Transurban Service Agreement</title>
     </head>
     <body>
-        <h1>Sample Application.</h1>
+        <h1>TransUrban POC Micro Service.</h1>
 	<p>Saying hello from the depths of docker!! Now: <%=new java.util.Date()%> .</p>
 	<p>Running Version: 0.01</p>
     </body>
