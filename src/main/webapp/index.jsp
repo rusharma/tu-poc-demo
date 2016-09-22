@@ -10,6 +10,6 @@
     <body>
         <h1>Sample Application.</h1>
 	<p>Saying hello from the depths of docker!! Now: <%=new java.util.Date()%> .</p>
-	<marquee>Little bo-peep has lost her sheep and doesn't know where to find them!!!! </marquee>
+	<p>Running Version: 0.01</p>
     </body>
 </html>
