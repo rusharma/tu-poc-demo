@@ -9,7 +9,7 @@
     </head>
     <body>
         <h1>Chewbecca POC Micro Service.</h1>
-	<p>Running Version: 0.03</p>
+	<p>Running Version: 0.04</p>
 	<p>Saying hello from the depths of docker!! Now: <%=new java.util.Date()%> .</p>
     </body>
 </html>
